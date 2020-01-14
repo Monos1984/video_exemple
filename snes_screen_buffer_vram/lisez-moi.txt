@@ -1,0 +1,1 @@
+Exemple pour charger une map dans un buffer en ram et l'injecter en VRAM ce qui permet de modifier la "map" à la volé. (Ajouter des murs, ou autre truc de ce genre).
